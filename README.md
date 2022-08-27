@@ -1,7 +1,7 @@
 # wechat-mini-program-learning
 微信小程序学习系列
 
-作者博客：[http://www.cnblogs.com/nosqlcoco](http://www.cnblogs.com/nosqlcoco)
+  
 
 # 快速入门
 
@@ -20,10 +20,3 @@
 - chaptor_10: canvas
 - chaptor_11: 小程序扫码、分享、客服消息
 - weixin_Demo: UI组件
-
-图片上传和长连接依赖后台接口,请参照另一个项目[springboot-weapp-demo](https://github.com/cocoli/springboot-weapp-demo)
-
-小程序交流群：594342242
-
-我的订阅号：
-![](https://github.com/cocoli/weixin_smallexe/blob/master/screenshot/dingyuhao.JPG?raw=true)
